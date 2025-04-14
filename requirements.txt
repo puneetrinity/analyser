@@ -1,0 +1,6 @@
+openai
+selenium
+PyMuPDF
+streamlit
+python-dotenv
+pandas
